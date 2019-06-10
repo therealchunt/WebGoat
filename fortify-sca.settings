@@ -1,0 +1,11 @@
+{
+  "translationArgs": [
+    "-exclude",
+    "**/*-min.js:**/*.min.js:/**/*jquery*.js",
+    "-source",
+    "1.7"
+  ],
+  "scanArgs": [
+    "-Xmx8G"
+  ]
+}
